@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T12:25:00+08:00",
+  "updatedAt": "2026-08-05T12:43:00+08:00",
   "items": [
     {
       "id": "market-radar",
@@ -70,11 +70,11 @@
       "featured": false,
       "platforms": {
         "android": {
-          "version": "0.6.10",
+          "version": "0.6.12",
           "actionLabel": "下载",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/kouzi-mobile/kouzi-mobile-v0.6.10.apk",
-            "github": "https://github.com/xingchen-66-02/kouzi-mobile-releases/releases/download/v0.6.10/kouzi-mobile-v0.6.10.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/kouzi-mobile/kouzi-mobile-v0.6.12.apk",
+            "github": "https://github.com/xingchen-66-02/kouzi-mobile-releases/releases/download/v0.6.12/kouzi-mobile-v0.6.12.apk"
           }
         }
       }
