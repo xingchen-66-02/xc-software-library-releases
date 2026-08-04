@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T11:35:00+08:00",
+  "updatedAt": "2026-08-05T12:25:00+08:00",
   "items": [
     {
       "id": "market-radar",
@@ -47,11 +47,11 @@
       "websiteUrl": "https://www.kufaka.com/shop/XCKEJI/qxqrnr",
       "platforms": {
         "android": {
-          "version": "1.2.2",
+          "version": "1.2.3",
           "actionLabel": "下载",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas/inspire-canvas-v1.2.2.apk",
-            "github": "https://github.com/xingchen-66-02/inspire-canvas-releases/releases/download/v1.2.2/inspire-canvas-v1.2.2.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas/inspire-canvas-v1.2.3.apk",
+            "github": "https://github.com/xingchen-66-02/inspire-canvas-releases/releases/download/v1.2.3/inspire-canvas-v1.2.3.apk"
           }
         }
       }
@@ -70,11 +70,11 @@
       "featured": false,
       "platforms": {
         "android": {
-          "version": "0.6.9",
+          "version": "0.6.10",
           "actionLabel": "下载",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/kouzi-mobile/kouzi-mobile-v0.6.9.apk",
-            "github": "https://github.com/xingchen-66-02/kouzi-mobile-releases/releases/download/v0.6.9/kouzi-mobile-v0.6.9.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/kouzi-mobile/kouzi-mobile-v0.6.10.apk",
+            "github": "https://github.com/xingchen-66-02/kouzi-mobile-releases/releases/download/v0.6.10/kouzi-mobile-v0.6.10.apk"
           }
         }
       }
