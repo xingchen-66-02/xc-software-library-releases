@@ -57,8 +57,8 @@
     {
       "id": "inspire-canvas",
       "name": "灵感画布",
-      "summary": "支持文生图与图生图的移动创作工作台，iPhone 可用 Safari 官方 Web/PWA 入口。",
-      "category": "AI 创作",
+      "summary": "支持文生图与图生图的 AI 图片创作工具，Android 与 iPhone Safari Web/PWA 正式版同步发布。",
+      "category": "AI 图片创作",
       "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/inspire-canvas.png",
       "tags": [
         "文生图",
