@@ -57,7 +57,7 @@
     {
       "id": "inspire-canvas",
       "name": "最强生图",
-      "summary": "完爆你知道的所有生图 AI，支持文生图、图生图、AI 修图、封面海报、肖像写真、商品配图与 4K 输出。",
+      "summary": "支持文生图、图生图、AI 修图、封面海报、肖像写真、商品配图与高分辨率输出。",
       "category": "AI 图片创作",
       "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/inspire-canvas.png",
       "tags": [
