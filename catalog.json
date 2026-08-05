@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T22:05:00+08:00",
+  "updatedAt": "2026-08-06T00:14:00+08:00",
   "items": [
     {
       "id": "xc-virtual",
@@ -65,8 +65,7 @@
         "图生图",
         "图生视频",
         "AI 修图",
-        "封面海报",
-        "iPhone Web"
+        "封面海报"
       ],
       "status": "available",
       "featured": false,
