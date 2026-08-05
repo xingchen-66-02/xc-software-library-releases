@@ -1,5 +1,58 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T13:03:00+08:00",
-  "items": []
+  "updatedAt": "2026-08-05T13:35:00+08:00",
+  "items": [
+    {
+      "id": "xc-virtual",
+      "name": "XC虚拟",
+      "summary": "Windows 桌面视频工具，提供本地视频虚拟摄像头播放、历史素材管理和 XC 视频创作功能。",
+      "category": "PC 视频工具",
+      "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/xc-virtual.png",
+      "tags": [
+        "Windows",
+        "PC 软件",
+        "虚拟摄像头",
+        "视频素材",
+        "AI 视频创作"
+      ],
+      "status": "available",
+      "featured": true,
+      "platforms": {
+        "pc": {
+          "version": "0.3.22",
+          "actionLabel": "下载",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/xc-virtual/xc-virtual-v0.3.22-local-setup.exe",
+            "github": "https://github.com/xingchen-66-02/xc-virtual-releases/releases/download/v0.3.22/xc-virtual-v0.3.22-local-setup.exe"
+          },
+          "variants": [
+            {
+              "id": "local-setup",
+              "label": "本地版安装程序",
+              "links": {
+                "domestic": "https://api.xcxc.cloud/downloads/xc-virtual/xc-virtual-v0.3.22-local-setup.exe",
+                "github": "https://github.com/xingchen-66-02/xc-virtual-releases/releases/download/v0.3.22/xc-virtual-v0.3.22-local-setup.exe"
+              }
+            },
+            {
+              "id": "cloud-setup",
+              "label": "云端版安装程序",
+              "links": {
+                "domestic": "https://api.xcxc.cloud/downloads/xc-virtual/xc-virtual-v0.3.22-cloud-setup.exe",
+                "github": "https://github.com/xingchen-66-02/xc-virtual-releases/releases/download/v0.3.22/xc-virtual-v0.3.22-cloud-setup.exe"
+              }
+            },
+            {
+              "id": "portable",
+              "label": "本地便携版",
+              "links": {
+                "domestic": "https://api.xcxc.cloud/downloads/xc-virtual/xc-virtual-v0.3.22-portable.exe",
+                "github": "https://github.com/xingchen-66-02/xc-virtual-releases/releases/download/v0.3.22/xc-virtual-v0.3.22-portable.exe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
 }
