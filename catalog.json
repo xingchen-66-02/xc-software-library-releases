@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T20:15:00+08:00",
+  "updatedAt": "2026-08-05T22:05:00+08:00",
   "items": [
     {
       "id": "xc-virtual",
@@ -57,12 +57,13 @@
     {
       "id": "inspire-canvas",
       "name": "最强生图",
-      "summary": "支持文生图、图生图、AI 修图、封面海报、肖像写真、商品配图与高分辨率输出。",
+      "summary": "支持文生图、图生图、图生视频、AI 修图、封面海报、肖像写真与高分辨率输出。",
       "category": "AI 图片创作",
       "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/inspire-canvas.png",
       "tags": [
         "文生图",
         "图生图",
+        "图生视频",
         "AI 修图",
         "封面海报",
         "iPhone Web"
@@ -70,24 +71,25 @@
       "status": "available",
       "featured": false,
       "websiteUrl": "https://www.kufaka.com/shop/XCKEJI/qxqrnr",
-      "details": "最强生图支持文生图、图生图、AI 修图、封面海报、肖像写真风格、商品配图、电影感概念画面和 4K 高清输出，适合经授权的人像编辑、短视频封面和社交媒体视觉素材创作。实际效果会受提示词、参考图、分辨率和内容安全规则影响。",
+      "details": "最强生图支持文生图、图生图、图生视频、AI 修图、封面海报、肖像写真风格、商品配图、电影感概念画面和 4K 高清输出，适合经授权的人像编辑、短视频素材和社交媒体视觉创作。图生视频支持 XC1/XC2/XC3、多分辨率、3 至 15 秒和按秒计点；实际效果会受提示词、参考图、分辨率、模型和内容安全规则影响。",
       "usageNotes": [
         "iPhone 使用 Safari 打开官方 Web/PWA，可通过共享菜单添加到主屏幕。",
         "图生图时由用户主动选择 1 至 4 张有权使用的参考图片。",
         "输入画面描述，选择画幅和分辨率后生成图片。",
+        "图生视频由用户主动选择主图；XC3 多图一致可再选择 1 至 3 张参考图片，视频按模型、分辨率、时长和音频计点。",
         "付费使用需要输入卡密；刷新或重新打开官方入口即可获得最新版本。"
       ],
       "platforms": {
         "android": {
-          "version": "1.2.8",
+          "version": "1.2.9",
           "actionLabel": "下载",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas/inspire-canvas-v1.2.8.apk",
-            "github": "https://github.com/xingchen-66-02/inspire-canvas-releases/releases/download/v1.2.8/inspire-canvas-v1.2.8.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas/inspire-canvas-v1.2.9.apk",
+            "github": "https://github.com/xingchen-66-02/inspire-canvas-releases/releases/download/v1.2.9/inspire-canvas-v1.2.9.apk"
           }
         },
         "ios": {
-          "version": "1.2.8",
+          "version": "1.2.9",
           "distribution": "web-pwa",
           "actionLabel": "打开 iPhone Web",
           "links": {
@@ -96,7 +98,7 @@
           }
         },
         "web": {
-          "version": "1.2.8",
+          "version": "1.2.9",
           "actionLabel": "打开",
           "links": {
             "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas-web/current/",
