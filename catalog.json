@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T13:35:00+08:00",
+  "updatedAt": "2026-08-05T16:50:00+08:00",
   "items": [
     {
       "id": "xc-virtual",
@@ -51,6 +51,49 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "id": "inspire-canvas",
+      "name": "灵感画布",
+      "summary": "支持文生图与图生图的移动创作工作台，iPhone 可用 Safari 官方 Web/PWA 入口。",
+      "category": "AI 创作",
+      "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/inspire-canvas.png",
+      "tags": [
+        "文生图",
+        "图生图",
+        "移动创作",
+        "iPhone Web"
+      ],
+      "status": "available",
+      "featured": false,
+      "websiteUrl": "https://www.kufaka.com/shop/XCKEJI/qxqrnr",
+      "platforms": {
+        "android": {
+          "version": "1.2.7",
+          "actionLabel": "下载",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas/inspire-canvas-v1.2.7.apk",
+            "github": "https://github.com/xingchen-66-02/inspire-canvas-releases/releases/download/v1.2.7/inspire-canvas-v1.2.7.apk"
+          }
+        },
+        "ios": {
+          "version": "1.2.7",
+          "distribution": "web-pwa",
+          "actionLabel": "打开 iPhone Web",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas-web/current/",
+            "github": "https://xingchen-66-02.github.io/inspire-canvas-web/"
+          }
+        },
+        "web": {
+          "version": "1.2.7",
+          "actionLabel": "打开",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas-web/current/",
+            "github": "https://xingchen-66-02.github.io/inspire-canvas-web/"
+          }
         }
       }
     }
