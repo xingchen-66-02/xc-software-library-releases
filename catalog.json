@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-05T18:15:00+08:00",
+  "updatedAt": "2026-08-05T18:40:00+08:00",
   "items": [
     {
       "id": "xc-virtual",
@@ -69,6 +69,13 @@
       "status": "available",
       "featured": false,
       "websiteUrl": "https://www.kufaka.com/shop/XCKEJI/qxqrnr",
+      "details": "灵感画布支持文生图与图生图，适合经授权的人像编辑、抖音等短视频平台封面和社交媒体视觉素材创作。实际效果会受提示词、参考图、分辨率和内容安全规则影响，不承诺优于所有同类工具或完全消除生成痕迹。",
+      "usageNotes": [
+        "iPhone 使用 Safari 打开官方 Web/PWA，可通过共享菜单添加到主屏幕。",
+        "图生图时由用户主动选择 1 至 4 张有权使用的参考图片。",
+        "输入画面描述，选择画幅和分辨率后生成图片。",
+        "付费使用需要输入卡密；刷新或重新打开官方入口即可获得最新版本。"
+      ],
       "platforms": {
         "android": {
           "version": "1.2.7",
@@ -93,6 +100,53 @@
           "links": {
             "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas-web/current/",
             "github": "https://xingchen-66-02.github.io/inspire-canvas-web/"
+          }
+        }
+      }
+    },
+    {
+      "id": "market-radar",
+      "name": "主力雷达",
+      "summary": "面向数字资产行情、资金流和合约行为分析的交易辅助工具，仅提供 GitHub 线路，需 VPN。",
+      "category": "数字资产工具",
+      "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/market-radar.png",
+      "tags": [
+        "数字资产",
+        "合约分析",
+        "资金流",
+        "需 VPN"
+      ],
+      "status": "available",
+      "featured": false,
+      "requiresVpn": true,
+      "websiteUrl": "https://www.kufaka.com/shop/XCKEJI/batzqg",
+      "details": "主力雷达用于查看数字资产行情、资金流和交易行为分析结果。当前正式发布源为 GitHub，软件库不会伪造国内下载地址；打开或下载前必须连接 VPN。分析结果仅供决策参考，不构成收益承诺或投资建议。",
+      "usageNotes": [
+        "先连接 VPN，再打开主力雷达 Android 或 iPhone Web 入口。",
+        "Android 当前正式版本为 2.0.0；iPhone 使用 GitHub Pages Web/PWA。",
+        "使用前请核对行情、仓位和风险，勿将单次分析结果视为确定性信号。"
+      ],
+      "platforms": {
+        "android": {
+          "version": "2.0.0",
+          "actionLabel": "下载（需 VPN）",
+          "links": {
+            "github": "https://github.com/xingchen-66-02/market-radar-releases/releases/download/v2.0.0/market-radar-v2.0.0.apk"
+          }
+        },
+        "ios": {
+          "version": "Web",
+          "distribution": "web-pwa",
+          "actionLabel": "打开（需 VPN）",
+          "links": {
+            "github": "https://xingchen-66-02.github.io/market-radar-releases/"
+          }
+        },
+        "web": {
+          "version": "Web",
+          "actionLabel": "打开（需 VPN）",
+          "links": {
+            "github": "https://xingchen-66-02.github.io/market-radar-releases/"
           }
         }
       }
