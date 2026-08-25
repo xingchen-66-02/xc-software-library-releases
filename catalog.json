@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T00:14:00+08:00",
+  "updatedAt": "2026-08-25T19:28:25+08:00",
   "items": [
     {
       "id": "xc-virtual",
@@ -103,6 +103,80 @@
             "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas-web/current/",
             "github": "https://xingchen-66-02.github.io/inspire-canvas-web/"
           }
+        }
+      }
+    },
+    {
+      "id": "xingchen-studio",
+      "name": "星辰创作",
+      "summary": "AI 短剧与小说创作工作台，提供作品资料管理、模型写作、分镜、备份恢复和导出。",
+      "category": "AI 内容创作",
+      "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/xingchen-studio.png",
+      "tags": [
+        "AI 短剧",
+        "小说创作",
+        "分镜",
+        "Android",
+        "Web/PWA"
+      ],
+      "status": "available",
+      "featured": false,
+      "details": "星辰创作面向小说作者、短剧编剧和内容工作室。Android、Web/PWA 与 API 当前正式版本为 1.2.6；账号权益与卡密兑换在登录后使用，实际可用模型以产品内状态为准。在线支付、视频生成和原生 iOS 尚未接入。",
+      "usageNotes": [
+        "Android 当前正式版本为 1.2.6（versionCode 51），提供国内和 GitHub 双源下载，可按网络情况选择线路。",
+        "Web/PWA 当前对应 1.2.6，需登录后使用账号权益、卡密兑换和创作工作台。",
+        "Windows 当前可用的正式版本为 1.0.11，提供 x64 安装版和便携版；本版没有 Windows 1.2.6 构建。",
+        "iPhone 使用 Safari 打开 Web/PWA，可通过共享菜单添加到主屏幕；当前没有原生 iOS App、TestFlight 或 App Store 版本。"
+      ],
+      "platforms": {
+        "android": {
+          "version": "1.2.6",
+          "actionLabel": "下载",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio/xingchen-studio-v1.2.6.apk",
+            "github": "https://github.com/xingchen-66-02/xingchen-studio-releases/releases/download/v1.2.6/xingchen-studio-v1.2.6.apk"
+          }
+        },
+        "ios": {
+          "version": "1.2.6",
+          "distribution": "web-pwa",
+          "actionLabel": "打开 iPhone Web",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-web/current/"
+          }
+        },
+        "web": {
+          "version": "1.2.6",
+          "actionLabel": "打开",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-web/current/"
+          }
+        },
+        "pc": {
+          "version": "1.0.11",
+          "actionLabel": "下载",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-windows/xingchen-studio-windows-v1.0.11-x64-installer.exe",
+            "github": "https://github.com/xingchen-66-02/xingchen-studio-windows-releases/releases/download/v1.0.11/xingchen-studio-windows-v1.0.11-x64-installer.exe"
+          },
+          "variants": [
+            {
+              "id": "installer",
+              "label": "安装版",
+              "links": {
+                "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-windows/xingchen-studio-windows-v1.0.11-x64-installer.exe",
+                "github": "https://github.com/xingchen-66-02/xingchen-studio-windows-releases/releases/download/v1.0.11/xingchen-studio-windows-v1.0.11-x64-installer.exe"
+              }
+            },
+            {
+              "id": "portable",
+              "label": "便携版",
+              "links": {
+                "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-windows/xingchen-studio-windows-v1.0.11-x64-portable.exe",
+                "github": "https://github.com/xingchen-66-02/xingchen-studio-windows-releases/releases/download/v1.0.11/xingchen-studio-windows-v1.0.11-x64-portable.exe"
+              }
+            }
+          ]
         }
       }
     },
