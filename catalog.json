@@ -1,13 +1,75 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T19:28:25+08:00",
+  "updatedAt": "2026-11-15T02:11:06+08:00",
   "items": [
+    {
+      "id": "kouzi-mobile",
+      "name": "XC王牌扣字",
+      "summary": "半自动与全自动提词、逐字模拟打字，录屏时看起来像真人在敲键盘。",
+      "category": "输入效率",
+      "icon": "https://api.xcxc.cloud/downloads/xc-software-library/icons/kouzi-mobile.png",
+      "tags": [
+        "Android",
+        "输入效率",
+        "提词",
+        "逐字输入"
+      ],
+      "status": "available",
+      "featured": true,
+      "details": "XC王牌扣字用于聊天场景的内容提词与逐字输入：把稿子或关键词填好后，由它按设定节奏一个字一个字打进输入框，可以设定每键间隔、标点停顿和长句中段的思考停顿。支持半自动（手动触发一句）、全自动（监听对方消息自动接话）与打歌词三种用法。需要开启无障碍服务，第一次使用请按首页引导操作。",
+      "usageNotes": [
+        "安装后按首页引导开启无障碍服务，出现悬浮球即完成。",
+        "输入法建议豆包，百度与讯飞可用；搜狗 20.19 起不可用。",
+        "整句刷屏与词库免费，逐字模拟需要激活卡密。",
+        "激活卡密请打开 App 内「会员与卡密」页。",
+        "当前正式版 7.8.16 · 8.0 MB"
+      ],
+      "platforms": {
+        "android": {
+          "version": "7.8.16",
+          "actionLabel": "下载",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/xc-wangpai/xc-wangpai-v7.8.16.apk"
+          }
+        }
+      }
+    },
+    {
+      "id": "xc-toolbox",
+      "name": "XC功能库",
+      "summary": "28 个常用小工具装在一个 App 里，查询、检测、转换一次到位。",
+      "category": "工具合集",
+      "icon": "https://api.xcxc.cloud/downloads/xc-software-library/icons/xc-toolbox.png",
+      "tags": [
+        "Android",
+        "工具合集",
+        "查询",
+        "检测"
+      ],
+      "status": "available",
+      "featured": false,
+      "details": "XC功能库把常用的二十多个小工具收进一个 App，包括 IP 归属地与地图、局域网探针、公网探针、QQ 相关查询与文字处理等，避免为每个小需求单独装一个应用。",
+      "usageNotes": [
+        "部分探针功能依赖网络环境，按页面提示操作。",
+        "应用内可检查更新，保持最新版本即可获得新工具。",
+        "当前正式版 3.5.0 · 20.4 MB"
+      ],
+      "platforms": {
+        "android": {
+          "version": "3.5.0",
+          "actionLabel": "下载",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/xc-toolbox/xc-toolbox-v3.5.0.apk"
+          }
+        }
+      }
+    },
     {
       "id": "xc-virtual",
       "name": "XC虚拟",
       "summary": "Windows 桌面视频工具，提供本地视频虚拟摄像头播放、历史素材管理和 XC 视频创作功能。",
       "category": "PC 视频工具",
-      "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/xc-virtual.png",
+      "icon": "https://api.xcxc.cloud/downloads/xc-software-library/icons/xc-virtual.png",
       "tags": [
         "Windows",
         "PC 软件",
@@ -16,41 +78,14 @@
         "AI 视频创作"
       ],
       "status": "available",
-      "featured": true,
+      "featured": false,
       "platforms": {
         "pc": {
           "version": "0.3.23",
-          "actionLabel": "下载",
+          "actionLabel": "暂未开放",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/xc-virtual/xc-virtual-v0.3.23-local-setup.exe",
-            "github": "https://github.com/xingchen-66-02/xc-virtual-releases/releases/download/v0.3.23/xc-virtual-v0.3.23-local-setup.exe"
-          },
-          "variants": [
-            {
-              "id": "local-setup",
-              "label": "本地版安装程序",
-              "links": {
-                "domestic": "https://api.xcxc.cloud/downloads/xc-virtual/xc-virtual-v0.3.23-local-setup.exe",
-                "github": "https://github.com/xingchen-66-02/xc-virtual-releases/releases/download/v0.3.23/xc-virtual-v0.3.23-local-setup.exe"
-              }
-            },
-            {
-              "id": "cloud-setup",
-              "label": "云端版安装程序",
-              "links": {
-                "domestic": "https://api.xcxc.cloud/downloads/xc-virtual/xc-virtual-v0.3.23-cloud-setup.exe",
-                "github": "https://github.com/xingchen-66-02/xc-virtual-releases/releases/download/v0.3.23/xc-virtual-v0.3.23-cloud-setup.exe"
-              }
-            },
-            {
-              "id": "portable",
-              "label": "本地便携版",
-              "links": {
-                "domestic": "https://api.xcxc.cloud/downloads/xc-virtual/xc-virtual-v0.3.23-portable.exe",
-                "github": "https://github.com/xingchen-66-02/xc-virtual-releases/releases/download/v0.3.23/xc-virtual-v0.3.23-portable.exe"
-              }
-            }
-          ]
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
+          }
         }
       }
     },
@@ -59,7 +94,7 @@
       "name": "最强生图",
       "summary": "支持文生图、图生图、图生视频、AI 修图、封面海报、肖像写真与高分辨率输出。",
       "category": "AI 图片创作",
-      "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/inspire-canvas.png",
+      "icon": "https://api.xcxc.cloud/downloads/xc-software-library/icons/inspire-canvas.png",
       "tags": [
         "文生图",
         "图生图",
@@ -81,27 +116,24 @@
       "platforms": {
         "android": {
           "version": "1.2.9",
-          "actionLabel": "下载",
+          "actionLabel": "暂未开放",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas/inspire-canvas-v1.2.9.apk",
-            "github": "https://github.com/xingchen-66-02/inspire-canvas-releases/releases/download/v1.2.9/inspire-canvas-v1.2.9.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "ios": {
           "version": "1.2.9",
           "distribution": "web-pwa",
-          "actionLabel": "打开 iPhone Web",
+          "actionLabel": "暂未开放",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas-web/current/",
-            "github": "https://xingchen-66-02.github.io/inspire-canvas-web/"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "web": {
           "version": "1.2.9",
-          "actionLabel": "打开",
+          "actionLabel": "暂未开放",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/inspire-canvas-web/current/",
-            "github": "https://xingchen-66-02.github.io/inspire-canvas-web/"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         }
       }
@@ -111,7 +143,7 @@
       "name": "星辰创作",
       "summary": "AI 短剧与小说创作工作台，提供作品资料管理、模型写作、分镜、备份恢复和导出。",
       "category": "AI 内容创作",
-      "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/xingchen-studio.png",
+      "icon": "https://api.xcxc.cloud/downloads/xc-software-library/icons/xingchen-studio.png",
       "tags": [
         "AI 短剧",
         "小说创作",
@@ -131,52 +163,32 @@
       "platforms": {
         "android": {
           "version": "1.2.6",
-          "actionLabel": "下载",
+          "actionLabel": "暂未开放",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio/xingchen-studio-v1.2.6.apk",
-            "github": "https://github.com/xingchen-66-02/xingchen-studio-releases/releases/download/v1.2.6/xingchen-studio-v1.2.6.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "ios": {
           "version": "1.2.6",
           "distribution": "web-pwa",
-          "actionLabel": "打开 iPhone Web",
+          "actionLabel": "暂未开放",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-web/current/"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "web": {
           "version": "1.2.6",
-          "actionLabel": "打开",
+          "actionLabel": "暂未开放",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-web/current/"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "pc": {
           "version": "1.0.11",
-          "actionLabel": "下载",
+          "actionLabel": "暂未开放",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-windows/xingchen-studio-windows-v1.0.11-x64-installer.exe",
-            "github": "https://github.com/xingchen-66-02/xingchen-studio-windows-releases/releases/download/v1.0.11/xingchen-studio-windows-v1.0.11-x64-installer.exe"
-          },
-          "variants": [
-            {
-              "id": "installer",
-              "label": "安装版",
-              "links": {
-                "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-windows/xingchen-studio-windows-v1.0.11-x64-installer.exe",
-                "github": "https://github.com/xingchen-66-02/xingchen-studio-windows-releases/releases/download/v1.0.11/xingchen-studio-windows-v1.0.11-x64-installer.exe"
-              }
-            },
-            {
-              "id": "portable",
-              "label": "便携版",
-              "links": {
-                "domestic": "https://api.xcxc.cloud/downloads/xingchen-studio-windows/xingchen-studio-windows-v1.0.11-x64-portable.exe",
-                "github": "https://github.com/xingchen-66-02/xingchen-studio-windows-releases/releases/download/v1.0.11/xingchen-studio-windows-v1.0.11-x64-portable.exe"
-              }
-            }
-          ]
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
+          }
         }
       }
     },
@@ -185,7 +197,7 @@
       "name": "主力雷达",
       "summary": "面向数字资产行情、资金流和合约行为分析的交易辅助工具，仅提供 GitHub 线路，需 VPN。",
       "category": "数字资产工具",
-      "icon": "https://raw.githubusercontent.com/xingchen-66-02/xc-software-library-releases/main/icons/market-radar.png",
+      "icon": "https://api.xcxc.cloud/downloads/xc-software-library/icons/market-radar.png",
       "tags": [
         "数字资产",
         "合约分析",
@@ -205,24 +217,24 @@
       "platforms": {
         "android": {
           "version": "2.0.0",
-          "actionLabel": "下载（需 VPN）",
+          "actionLabel": "暂未开放",
           "links": {
-            "github": "https://github.com/xingchen-66-02/market-radar-releases/releases/download/v2.0.0/market-radar-v2.0.0.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "ios": {
           "version": "Web",
           "distribution": "web-pwa",
-          "actionLabel": "打开（需 VPN）",
+          "actionLabel": "暂未开放",
           "links": {
-            "github": "https://xingchen-66-02.github.io/market-radar-releases/"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "web": {
           "version": "Web",
-          "actionLabel": "打开（需 VPN）",
+          "actionLabel": "暂未开放",
           "links": {
-            "github": "https://xingchen-66-02.github.io/market-radar-releases/"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         }
       }
