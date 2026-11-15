@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T02:11:06+08:00",
+  "updatedAt": "2026-11-15T09:52:19+08:00",
   "items": [
     {
       "id": "kouzi-mobile",
@@ -57,9 +57,9 @@
       "platforms": {
         "android": {
           "version": "3.5.0",
-          "actionLabel": "下载",
+          "actionLabel": "暂未开放",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/xc-toolbox/xc-toolbox-v3.5.0.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         }
       }
