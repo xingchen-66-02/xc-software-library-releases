@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T11:27:24+08:00",
+  "updatedAt": "2026-11-17T11:37:20+08:00",
   "items": [
     {
       "id": "kouzi-mobile",
@@ -22,7 +22,7 @@
         "输入法建议豆包，百度与讯飞可用；搜狗 20.19 起不可用。",
         "整句刷屏与词库免费，逐字模拟需要激活卡密。",
         "激活卡密请打开 App 内「会员与卡密」页。",
-        "当前正式版 7.8.16 · 8.0 MB"
+        "当前正式版 7.8.16"
       ],
       "platforms": {
         "android": {
@@ -87,7 +87,8 @@
             "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         }
-      }
+      },
+      "usageNotes": []
     },
     {
       "id": "inspire-canvas",
@@ -115,14 +116,14 @@
       ],
       "platforms": {
         "android": {
-          "version": "1.2.9",
+          "version": "1.2.16",
           "actionLabel": "暂未开放",
           "links": {
             "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "ios": {
-          "version": "1.2.9",
+          "version": "1.2.16",
           "distribution": "web-pwa",
           "actionLabel": "暂未开放",
           "links": {
@@ -130,7 +131,7 @@
           }
         },
         "web": {
-          "version": "1.2.9",
+          "version": "1.2.16",
           "actionLabel": "暂未开放",
           "links": {
             "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
@@ -153,23 +154,23 @@
       ],
       "status": "available",
       "featured": false,
-      "details": "星辰创作面向小说作者、短剧编剧和内容工作室。Android、Web/PWA 与 API 当前正式版本为 1.2.6；账号权益与卡密兑换在登录后使用，实际可用模型以产品内状态为准。在线支付、视频生成和原生 iOS 尚未接入。",
+      "details": "星辰创作面向小说作者、短剧编剧和内容工作室。Android、Web/PWA 与 API 当前正式版本为 1.2.24；账号权益与卡密兑换在登录后使用，实际可用模型以产品内状态为准。在线支付、视频生成和原生 iOS 尚未接入。",
       "usageNotes": [
-        "Android 当前正式版本为 1.2.6（versionCode 51），提供国内和 GitHub 双源下载，可按网络情况选择线路。",
-        "Web/PWA 当前对应 1.2.6，需登录后使用账号权益、卡密兑换和创作工作台。",
-        "Windows 当前可用的正式版本为 1.0.11，提供 x64 安装版和便携版；本版没有 Windows 1.2.6 构建。",
+        "Android 当前正式版本为 1.2.24，提供国内和 GitHub 双源下载，可按网络情况选择线路。",
+        "Web/PWA 当前对应 1.2.24，需登录后使用账号权益、卡密兑换和创作工作台。",
+        "Windows 当前可用的正式版本为 1.2.24，提供 x64 安装版和便携版。",
         "iPhone 使用 Safari 打开 Web/PWA，可通过共享菜单添加到主屏幕；当前没有原生 iOS App、TestFlight 或 App Store 版本。"
       ],
       "platforms": {
         "android": {
-          "version": "1.2.6",
+          "version": "1.2.24",
           "actionLabel": "暂未开放",
           "links": {
             "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "ios": {
-          "version": "1.2.6",
+          "version": "1.2.24",
           "distribution": "web-pwa",
           "actionLabel": "暂未开放",
           "links": {
@@ -177,14 +178,14 @@
           }
         },
         "web": {
-          "version": "1.2.6",
+          "version": "1.2.24",
           "actionLabel": "暂未开放",
           "links": {
             "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         },
         "pc": {
-          "version": "1.0.11",
+          "version": "1.2.24",
           "actionLabel": "暂未开放",
           "links": {
             "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
