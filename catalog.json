@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T09:52:19+08:00",
+  "updatedAt": "2026-11-17T11:27:24+08:00",
   "items": [
     {
       "id": "kouzi-mobile",
-      "name": "XC王牌扣字",
+      "name": "XC王牌扣字助手",
       "summary": "半自动与全自动提词、逐字模拟打字，录屏时看起来像真人在敲键盘。",
       "category": "输入效率",
-      "icon": "https://api.xcxc.cloud/downloads/xc-software-library/icons/kouzi-mobile.png",
+      "icon": "https://api.xcxc.cloud/downloads/xc-software-library/icons/kouzi-mobile-v2.png",
       "tags": [
         "Android",
         "输入效率",
@@ -16,7 +16,7 @@
       ],
       "status": "available",
       "featured": true,
-      "details": "XC王牌扣字用于聊天场景的内容提词与逐字输入：把稿子或关键词填好后，由它按设定节奏一个字一个字打进输入框，可以设定每键间隔、标点停顿和长句中段的思考停顿。支持半自动（手动触发一句）、全自动（监听对方消息自动接话）与打歌词三种用法。需要开启无障碍服务，第一次使用请按首页引导操作。",
+      "details": "XC王牌扣字助手用于聊天场景的内容提词与逐字输入：把稿子或关键词填好后，由它按设定节奏一个字一个字打进输入框，可以设定每键间隔、标点停顿和长句中段的思考停顿。支持半自动（手动触发一句）、全自动（监听对方消息自动接话）与打歌词三种用法。需要开启无障碍服务，第一次使用请按首页引导操作。",
       "usageNotes": [
         "安装后按首页引导开启无障碍服务，出现悬浮球即完成。",
         "输入法建议豆包，百度与讯飞可用；搜狗 20.19 起不可用。",
@@ -52,11 +52,11 @@
       "usageNotes": [
         "部分探针功能依赖网络环境，按页面提示操作。",
         "应用内可检查更新，保持最新版本即可获得新工具。",
-        "当前正式版 3.5.0 · 20.4 MB"
+        "当前正式版 0.0.1"
       ],
       "platforms": {
         "android": {
-          "version": "3.5.0",
+          "version": "0.0.1",
           "actionLabel": "暂未开放",
           "links": {
             "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
