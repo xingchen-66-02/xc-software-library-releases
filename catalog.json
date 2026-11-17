@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T20:16:54+08:00",
+  "updatedAt": "2026-11-17T22:40:25+08:00",
   "items": [
     {
       "id": "kouzi-mobile",
@@ -22,14 +22,44 @@
         "输入法建议豆包，百度与讯飞可用；搜狗 20.19 起不可用。",
         "整句刷屏与词库免费，逐字模拟需要激活卡密。",
         "激活卡密请打开 App 内「会员与卡密」页。",
-        "当前正式版 7.8.16"
+        "当前正式版 7.8.17"
       ],
       "platforms": {
         "android": {
-          "version": "7.8.16",
+          "version": "7.8.17",
           "actionLabel": "下载",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/xc-wangpai/xc-wangpai-v7.8.16.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-wangpai/xc-wangpai-v7.8.17.apk"
+          }
+        }
+      }
+    },
+    {
+      "id": "xc-toolbox",
+      "name": "XC功能库",
+      "summary": "28 个常用小工具装在一个 App 里，查询、检测、转换一次到位。",
+      "category": "工具合集",
+      "icon": "https://api.xcxc.cloud/downloads/xc-software-library/icons/xc-toolbox.png",
+      "tags": [
+        "Android",
+        "工具合集",
+        "查询",
+        "检测"
+      ],
+      "status": "available",
+      "featured": false,
+      "details": "XC功能库把常用的二十多个小工具收进一个 App，包括 IP 归属地与地图、局域网探针、公网探针、QQ 相关查询与文字处理等，避免为每个小需求单独装一个应用。",
+      "usageNotes": [
+        "部分探针功能依赖网络环境，按页面提示操作。",
+        "应用内可检查更新，保持最新版本即可获得新工具。",
+        "当前正式版 3.8.2"
+      ],
+      "platforms": {
+        "android": {
+          "version": "3.8.2",
+          "actionLabel": "暂未开放",
+          "links": {
+            "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
           }
         }
       }
