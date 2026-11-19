@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T22:40:25+08:00",
+  "updatedAt": "2026-11-19T11:06:55+08:00",
   "items": [
     {
       "id": "kouzi-mobile",
@@ -22,14 +22,14 @@
         "输入法建议豆包，百度与讯飞可用；搜狗 20.19 起不可用。",
         "整句刷屏与词库免费，逐字模拟需要激活卡密。",
         "激活卡密请打开 App 内「会员与卡密」页。",
-        "当前正式版 7.8.17"
+        "当前正式版 7.8.18"
       ],
       "platforms": {
         "android": {
-          "version": "7.8.17",
+          "version": "7.8.18",
           "actionLabel": "下载",
           "links": {
-            "domestic": "https://api.xcxc.cloud/downloads/xc-wangpai/xc-wangpai-v7.8.17.apk"
+            "domestic": "https://api.xcxc.cloud/downloads/xc-wangpai/xc-wangpai-v7.8.18.apk"
           }
         }
       }
@@ -52,11 +52,11 @@
       "usageNotes": [
         "部分探针功能依赖网络环境，按页面提示操作。",
         "应用内可检查更新，保持最新版本即可获得新工具。",
-        "当前正式版 3.8.2"
+        "当前正式版 5.5.1"
       ],
       "platforms": {
         "android": {
-          "version": "3.8.2",
+          "version": "5.5.1",
           "actionLabel": "暂未开放",
           "links": {
             "domestic": "https://api.xcxc.cloud/downloads/xc-software-library/unavailable.html"
